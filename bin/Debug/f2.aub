@@ -1,0 +1,13 @@
+#include 'f1.aub'
+#define pi 3.14
+function getpi();
+{
+return pi;
+
+}
+procedure calcos(input x output y);
+{
+write(x);
+y:=sin(x+getpi()/2);
+
+}

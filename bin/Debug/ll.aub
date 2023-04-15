@@ -1,0 +1,12 @@
+#define l 10
+procedure k (input g);
+{} 
+main {
+call k (input  f);
+s:=3;
+for s:=3 to 5 do {
+s:=s-1;
+read(w); }
+write(s, '   ',w);
+write('lkjghfs');}
+

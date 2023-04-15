@@ -1,0 +1,302 @@
+c:\users\luobana\documents\visual studio 2010\Projects\Compiler_Compiler\Compiler_Compiler\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\luobana\documents\visual studio 2010\Projects\Compiler_Compiler\Compiler_Compiler\obj\x86\Debug\Compiler_Compiler.Form1.resources
+c:\users\luobana\documents\visual studio 2010\Projects\Compiler_Compiler\Compiler_Compiler\obj\x86\Debug\Compiler_Compiler.Properties.Resources.resources
+c:\users\luobana\documents\visual studio 2010\Projects\Compiler_Compiler\Compiler_Compiler\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\luobana\documents\visual studio 2010\Projects\Compiler_Compiler\Compiler_Compiler\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\luobana\documents\visual studio 2010\Projects\Compiler_Compiler\Compiler_Compiler\bin\Debug\Compiler_Compiler.exe
+c:\users\luobana\documents\visual studio 2010\Projects\Compiler_Compiler\Compiler_Compiler\bin\Debug\Compiler_Compiler.pdb
+c:\users\luobana\documents\visual studio 2010\Projects\Compiler_Compiler\Compiler_Compiler\obj\x86\Debug\Compiler_Compiler.exe
+c:\users\luobana\documents\visual studio 2010\Projects\Compiler_Compiler\Compiler_Compiler\obj\x86\Debug\Compiler_Compiler.pdb
+D:\NOW\Compiler_Homework\Compiler_Compiler\Compiler_Compiler\obj\x86\Debug\Compiler_Compiler.exe
+D:\NOW\Compiler_Homework\Compiler_Compiler\Compiler_Compiler\obj\x86\Debug\Compiler_Compiler.pdb
+D:\NOW\Compiler_Homework\Compiler_Compiler\Compiler_Compiler\bin\Debug\Compiler_Compiler.exe
+D:\NOW\Compiler_Homework\Compiler_Compiler\Compiler_Compiler\bin\Debug\Compiler_Compiler.pdb
+D:\NOW\Compiler_Homework\Compiler_Compiler\Compiler_Compiler\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\NOW\Compiler_Homework\Compiler_Compiler\Compiler_Compiler\obj\x86\Debug\Compiler_Compiler.Form1.resources
+D:\NOW\Compiler_Homework\Compiler_Compiler\Compiler_Compiler\obj\x86\Debug\Compiler_Compiler.Properties.Resources.resources
+D:\NOW\Compiler_Homework\Compiler_Compiler\Compiler_Compiler\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\NOW\Compiler_Homework\Compiler_Compiler\Compiler_Compiler\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\NOW\Compiler_Homework\Compiler_Compiler - Copy\Compiler_Compiler\obj\x86\Debug\Compiler_Compiler.exe
+D:\NOW\Compiler_Homework\Compiler_Compiler - Copy\Compiler_Compiler\obj\x86\Debug\Compiler_Compiler.pdb
+D:\NOW\Compiler_Homework\Compiler_Compiler - Copy\Compiler_Compiler\bin\Debug\Compiler_Compiler.exe
+D:\NOW\Compiler_Homework\Compiler_Compiler - Copy\Compiler_Compiler\bin\Debug\Compiler_Compiler.pdb
+D:\NOW\Compiler_Homework\Compiler_Compiler - Copy\Compiler_Compiler\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\NOW\Compiler_Homework\Compiler_Compiler - Copy\Compiler_Compiler\obj\x86\Debug\Compiler_Compiler.Form1.resources
+D:\NOW\Compiler_Homework\Compiler_Compiler - Copy\Compiler_Compiler\obj\x86\Debug\Compiler_Compiler.Properties.Resources.resources
+D:\NOW\Compiler_Homework\Compiler_Compiler - Copy\Compiler_Compiler\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\NOW\Compiler_Homework\Compiler_Compiler - Copy\Compiler_Compiler\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\NOW\Compiler_Homework\Compiler_Compiler - modulation\Compiler_Compiler\obj\x86\Debug\Compiler_Compiler.exe
+D:\NOW\Compiler_Homework\Compiler_Compiler - modulation\Compiler_Compiler\obj\x86\Debug\Compiler_Compiler.pdb
+D:\NOW\Compiler_Homework\Compiler_Compiler - modulation\Compiler_Compiler\bin\Debug\Compiler_Compiler.exe
+D:\NOW\Compiler_Homework\Compiler_Compiler - modulation\Compiler_Compiler\bin\Debug\Compiler_Compiler.pdb
+D:\NOW\Compiler_Homework\Compiler_Compiler - modulation\Compiler_Compiler\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\NOW\Compiler_Homework\Compiler_Compiler - modulation\Compiler_Compiler\obj\x86\Debug\Compiler_Compiler.Form1.resources
+D:\NOW\Compiler_Homework\Compiler_Compiler - modulation\Compiler_Compiler\obj\x86\Debug\Compiler_Compiler.Properties.Resources.resources
+D:\NOW\Compiler_Homework\Compiler_Compiler - modulation\Compiler_Compiler\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\NOW\Compiler_Homework\Compiler_Compiler - modulation\Compiler_Compiler\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\Compiler_Compiler - modulation\Compiler_Compiler\obj\x86\Debug\Compiler_Compiler.exe
+G:\Compiler_Compiler - modulation\Compiler_Compiler\obj\x86\Debug\Compiler_Compiler.pdb
+G:\Compiler_Compiler - modulation\Compiler_Compiler\bin\Debug\Compiler_Compiler.exe
+G:\Compiler_Compiler - modulation\Compiler_Compiler\bin\Debug\Compiler_Compiler.pdb
+G:\Compiler_Compiler - modulation\Compiler_Compiler\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\Compiler_Compiler - modulation\Compiler_Compiler\obj\x86\Debug\Compiler_Compiler.Form1.resources
+G:\Compiler_Compiler - modulation\Compiler_Compiler\obj\x86\Debug\Compiler_Compiler.Properties.Resources.resources
+G:\Compiler_Compiler - modulation\Compiler_Compiler\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\Compiler_Compiler - modulation\Compiler_Compiler\obj\x86\Debug\GenerateResource.write.1.tlog
+H:\Compiler_Compiler - modulation\Compiler_Compiler\obj\x86\Debug\Compiler_Compiler.exe
+H:\Compiler_Compiler - modulation\Compiler_Compiler\obj\x86\Debug\Compiler_Compiler.pdb
+H:\Compiler_Compiler - modulation\Compiler_Compiler\bin\Debug\Compiler_Compiler.exe
+H:\Compiler_Compiler - modulation\Compiler_Compiler\bin\Debug\Compiler_Compiler.pdb
+H:\Compiler_Compiler - modulation\Compiler_Compiler\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\Compiler_Compiler - modulation\Compiler_Compiler\obj\x86\Debug\Compiler_Compiler.Form1.resources
+H:\Compiler_Compiler - modulation\Compiler_Compiler\obj\x86\Debug\Compiler_Compiler.Properties.Resources.resources
+H:\Compiler_Compiler - modulation\Compiler_Compiler\obj\x86\Debug\GenerateResource.read.1.tlog
+H:\Compiler_Compiler - modulation\Compiler_Compiler\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Compiler_Compiler - modulation\Compiler_Compiler\obj\x86\Debug\Compiler_Compiler.exe
+D:\Compiler_Compiler - modulation\Compiler_Compiler\obj\x86\Debug\Compiler_Compiler.pdb
+D:\Compiler_Compiler - modulation\Compiler_Compiler\bin\Debug\Compiler_Compiler.exe
+D:\Compiler_Compiler - modulation\Compiler_Compiler\bin\Debug\Compiler_Compiler.pdb
+D:\Compiler_Compiler - modulation\Compiler_Compiler\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Compiler_Compiler - modulation\Compiler_Compiler\obj\x86\Debug\Compiler_Compiler.Form1.resources
+D:\Compiler_Compiler - modulation\Compiler_Compiler\obj\x86\Debug\Compiler_Compiler.Properties.Resources.resources
+D:\Compiler_Compiler - modulation\Compiler_Compiler\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Compiler_Compiler - modulation\Compiler_Compiler\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\NOW\Compiler_Homework\Compiler_Compilerl\Compiler_Compiler\obj\x86\Debug\Compiler_Compiler.exe
+D:\NOW\Compiler_Homework\Compiler_Compilerl\Compiler_Compiler\obj\x86\Debug\Compiler_Compiler.pdb
+D:\NOW\Compiler_Homework\Compiler_Compilerl\Compiler_Compiler\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\NOW\Compiler_Homework\Compiler_Compilerl\Compiler_Compiler\obj\x86\Debug\Compiler_Compiler.Form1.resources
+D:\NOW\Compiler_Homework\Compiler_Compilerl\Compiler_Compiler\obj\x86\Debug\Compiler_Compiler.Properties.Resources.resources
+D:\NOW\Compiler_Homework\Compiler_Compilerl\Compiler_Compiler\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\NOW\Compiler_Homework\Compiler_Compilerl\Compiler_Compiler\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\NOW\Compiler_Homework\Compiler_Compilerl\Compiler_Compiler\bin\Debug\Compiler_Compiler.exe
+D:\NOW\Compiler_Homework\Compiler_Compilerl\Compiler_Compiler\bin\Debug\Compiler_Compiler.pdb
+H:\Compiler_Compilerl\Compiler_Compiler\obj\x86\Debug\Compiler_Compiler.exe
+I:\Compiler_Compilerl\Compiler_Compiler\obj\x86\Debug\Compiler_Compiler.exe
+I:\Compiler_Compilerl\Compiler_Compiler\obj\x86\Debug\ResolveAssemblyReference.cache
+I:\Compiler_Compilerl\Compiler_Compiler\obj\x86\Debug\Compiler_Compiler.Form1.resources
+I:\Compiler_Compilerl\Compiler_Compiler\obj\x86\Debug\Compiler_Compiler.Properties.Resources.resources
+I:\Compiler_Compilerl\Compiler_Compiler\obj\x86\Debug\GenerateResource.read.1.tlog
+I:\Compiler_Compilerl\Compiler_Compiler\obj\x86\Debug\GenerateResource.write.1.tlog
+I:\Compiler_Compilerl\Compiler_Compiler\bin\Debug\Compiler_Compiler.exe
+I:\Compiler_Compilerl\Compiler_Compiler\bin\Debug\Compiler_Compiler.pdb
+I:\Compiler_Compilerl\Compiler_Compiler\obj\x86\Debug\Compiler_Compiler.pdb
+C:\Users\lark\Desktop\Compiler_Compilerl\Compiler_Compiler\obj\x86\Debug\Compiler_Compiler.exe
+C:\Users\lark\Desktop\Compiler_Compilerl\Compiler_Compiler\obj\x86\Debug\Compiler_Compiler.pdb
+C:\Users\lark\Desktop\Compiler_Compilerl\Compiler_Compiler\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\lark\Desktop\Compiler_Compilerl\Compiler_Compiler\obj\x86\Debug\Compiler_Compiler.Form1.resources
+C:\Users\lark\Desktop\Compiler_Compilerl\Compiler_Compiler\obj\x86\Debug\Compiler_Compiler.Properties.Resources.resources
+C:\Users\lark\Desktop\Compiler_Compilerl\Compiler_Compiler\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\lark\Desktop\Compiler_Compilerl\Compiler_Compiler\obj\x86\Debug\GenerateResource.write.1.tlog
+H:\Compiler_Compilerl\Compiler_Compiler\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\Compiler_Compilerl\Compiler_Compiler\obj\x86\Debug\Compiler_Compiler.Form1.resources
+H:\Compiler_Compilerl\Compiler_Compiler\obj\x86\Debug\Compiler_Compiler.Properties.Resources.resources
+H:\Compiler_Compilerl\Compiler_Compiler\obj\x86\Debug\GenerateResource.read.1.tlog
+H:\Compiler_Compilerl\Compiler_Compiler\obj\x86\Debug\GenerateResource.write.1.tlog
+H:\Compiler_Compilerl\Compiler_Compiler\bin\Debug\Compiler_Compiler.exe
+H:\Compiler_Compilerl\Compiler_Compiler\bin\Debug\Compiler_Compiler.pdb
+H:\Compiler_Compilerl\Compiler_Compiler\obj\x86\Debug\Compiler_Compiler.pdb
+R:\مشروع السنة الرابعة\مشروع مترجمات\New folder\Compiler_Compiler\Compiler_Compiler\obj\x86\Debug\Compiler_Compiler.exe
+R:\مشروع السنة الرابعة\مشروع مترجمات\New folder\Compiler_Compiler\Compiler_Compiler\obj\x86\Debug\Compiler_Compiler.pdb
+R:\مشروع السنة الرابعة\مشروع مترجمات\New folder\Compiler_Compiler\Compiler_Compiler\bin\Debug\Compiler_Compiler.exe
+R:\مشروع السنة الرابعة\مشروع مترجمات\New folder\Compiler_Compiler\Compiler_Compiler\bin\Debug\Compiler_Compiler.pdb
+R:\مشروع السنة الرابعة\مشروع مترجمات\New folder\Compiler_Compiler\Compiler_Compiler\obj\x86\Debug\ResolveAssemblyReference.cache
+R:\مشروع السنة الرابعة\مشروع مترجمات\New folder\Compiler_Compiler\Compiler_Compiler\obj\x86\Debug\Compiler_Compiler.Form1.resources
+R:\مشروع السنة الرابعة\مشروع مترجمات\New folder\Compiler_Compiler\Compiler_Compiler\obj\x86\Debug\Compiler_Compiler.Properties.Resources.resources
+R:\مشروع السنة الرابعة\مشروع مترجمات\New folder\Compiler_Compiler\Compiler_Compiler\obj\x86\Debug\GenerateResource.read.1.tlog
+R:\مشروع السنة الرابعة\مشروع مترجمات\New folder\Compiler_Compiler\Compiler_Compiler\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\Compiler_Compiler\Compiler_Compiler\obj\x86\Debug\Compiler_Compiler.exe
+G:\Compiler_Compiler\Compiler_Compiler\obj\x86\Debug\Compiler_Compiler.pdb
+G:\Compiler_Compiler\Compiler_Compiler\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\Compiler_Compiler\Compiler_Compiler\obj\x86\Debug\Compiler_Compiler.Form1.resources
+G:\Compiler_Compiler\Compiler_Compiler\obj\x86\Debug\Compiler_Compiler.Properties.Resources.resources
+G:\Compiler_Compiler\Compiler_Compiler\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\Compiler_Compiler\Compiler_Compiler\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\Compiler_Compiler\Compiler_Compiler\bin\Debug\Compiler_Compiler.exe
+G:\Compiler_Compiler\Compiler_Compiler\bin\Debug\Compiler_Compiler.pdb
+G:\Compiler\Compiler_Compiler\Compiler_Compiler\obj\x86\Debug\Compiler_Compiler.exe
+G:\Compiler\Compiler_Compiler\Compiler_Compiler\obj\x86\Debug\Compiler_Compiler.pdb
+G:\Compiler\Compiler_Compiler\Compiler_Compiler\bin\Debug\Compiler_Compiler.exe
+G:\Compiler\Compiler_Compiler\Compiler_Compiler\bin\Debug\Compiler_Compiler.pdb
+G:\Compiler\Compiler_Compiler\Compiler_Compiler\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\Compiler\Compiler_Compiler\Compiler_Compiler\obj\x86\Debug\Compiler_Compiler.Form1.resources
+G:\Compiler\Compiler_Compiler\Compiler_Compiler\obj\x86\Debug\Compiler_Compiler.Properties.Resources.resources
+G:\Compiler\Compiler_Compiler\Compiler_Compiler\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\Compiler\Compiler_Compiler\Compiler_Compiler\obj\x86\Debug\GenerateResource.write.1.tlog
+H:\Compiler\Compiler_Compiler\Compiler_Compiler\obj\x86\Debug\Compiler_Compiler.exe
+H:\Compiler\Compiler_Compiler\Compiler_Compiler\obj\x86\Debug\Compiler_Compiler.pdb
+H:\Compiler\Compiler_Compiler\Compiler_Compiler\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\Compiler\Compiler_Compiler\Compiler_Compiler\obj\x86\Debug\Compiler_Compiler.Form1.resources
+H:\Compiler\Compiler_Compiler\Compiler_Compiler\obj\x86\Debug\Compiler_Compiler.Properties.Resources.resources
+H:\Compiler\Compiler_Compiler\Compiler_Compiler\obj\x86\Debug\GenerateResource.read.1.tlog
+H:\Compiler\Compiler_Compiler\Compiler_Compiler\obj\x86\Debug\GenerateResource.write.1.tlog
+H:\Compiler\Compiler_Compiler\Compiler_Compiler\bin\Debug\Compiler_Compiler.exe
+H:\Compiler\Compiler_Compiler\Compiler_Compiler\bin\Debug\Compiler_Compiler.pdb
+L:\Compiler\Compiler_Compiler\Compiler_Compiler\obj\x86\Debug\Compiler_Compiler.exe
+L:\Compiler\Compiler_Compiler\Compiler_Compiler\obj\x86\Debug\Compiler_Compiler.pdb
+L:\Compiler\Compiler_Compiler\Compiler_Compiler\obj\x86\Debug\ResolveAssemblyReference.cache
+L:\Compiler\Compiler_Compiler\Compiler_Compiler\obj\x86\Debug\Compiler_Compiler.Form1.resources
+L:\Compiler\Compiler_Compiler\Compiler_Compiler\obj\x86\Debug\Compiler_Compiler.Properties.Resources.resources
+L:\Compiler\Compiler_Compiler\Compiler_Compiler\obj\x86\Debug\GenerateResource.read.1.tlog
+L:\Compiler\Compiler_Compiler\Compiler_Compiler\obj\x86\Debug\GenerateResource.write.1.tlog
+L:\Compiler\Compiler_Compiler\Compiler_Compiler\bin\Debug\Compiler_Compiler.exe
+L:\Compiler\Compiler_Compiler\Compiler_Compiler\bin\Debug\Compiler_Compiler.pdb
+L:\Compiler\Compiler_Compiler\Compiler_Compiler\obj\x86\Debug\Compiler_Compiler.Form2.resources
+L:\Studying\Compiler\Compiler_Compiler\Compiler_Compiler\obj\x86\Debug\Compiler_Compiler.exe
+L:\Studying\Compiler\Compiler_Compiler\Compiler_Compiler\obj\x86\Debug\Compiler_Compiler.pdb
+L:\Studying\Compiler\Compiler_Compiler\Compiler_Compiler\bin\Debug\Compiler_Compiler.exe
+L:\Studying\Compiler\Compiler_Compiler\Compiler_Compiler\bin\Debug\Compiler_Compiler.pdb
+L:\Studying\Compiler\Compiler_Compiler\Compiler_Compiler\obj\x86\Debug\ResolveAssemblyReference.cache
+L:\Studying\Compiler\Compiler_Compiler\Compiler_Compiler\obj\x86\Debug\Compiler_Compiler.Form1.resources
+L:\Studying\Compiler\Compiler_Compiler\Compiler_Compiler\obj\x86\Debug\Compiler_Compiler.Properties.Resources.resources
+L:\Studying\Compiler\Compiler_Compiler\Compiler_Compiler\obj\x86\Debug\GenerateResource.read.1.tlog
+L:\Studying\Compiler\Compiler_Compiler\Compiler_Compiler\obj\x86\Debug\GenerateResource.write.1.tlog
+L:\Studying\Compiler_Compiler\Compiler_Compiler\obj\x86\Debug\Compiler_Compiler.exe
+L:\Studying\Compiler_Compiler\Compiler_Compiler\obj\x86\Debug\Compiler_Compiler.pdb
+L:\Studying\Compiler_Compiler\Compiler_Compiler\bin\Debug\Compiler_Compiler.exe
+L:\Studying\Compiler_Compiler\Compiler_Compiler\bin\Debug\Compiler_Compiler.pdb
+L:\Studying\Compiler_Compiler\Compiler_Compiler\obj\x86\Debug\ResolveAssemblyReference.cache
+L:\Studying\Compiler_Compiler\Compiler_Compiler\obj\x86\Debug\Compiler_Compiler.Form1.resources
+L:\Studying\Compiler_Compiler\Compiler_Compiler\obj\x86\Debug\Compiler_Compiler.Properties.Resources.resources
+L:\Studying\Compiler_Compiler\Compiler_Compiler\obj\x86\Debug\GenerateResource.read.1.tlog
+L:\Studying\Compiler_Compiler\Compiler_Compiler\obj\x86\Debug\GenerateResource.write.1.tlog
+L:\Studying\Compiler_Compilerl\Compiler_Compiler\obj\x86\Debug\Compiler_Compiler.exe
+L:\Studying\Compiler_Compilerl\Compiler_Compiler\obj\x86\Debug\Compiler_Compiler.pdb
+L:\Studying\Compiler_Compilerl\Compiler_Compiler\bin\Debug\Compiler_Compiler.exe
+L:\Studying\Compiler_Compilerl\Compiler_Compiler\bin\Debug\Compiler_Compiler.pdb
+L:\Studying\Compiler_Compilerl\Compiler_Compiler\obj\x86\Debug\ResolveAssemblyReference.cache
+L:\Studying\Compiler_Compilerl\Compiler_Compiler\obj\x86\Debug\Compiler_Compiler.Form1.resources
+L:\Studying\Compiler_Compilerl\Compiler_Compiler\obj\x86\Debug\Compiler_Compiler.Properties.Resources.resources
+L:\Studying\Compiler_Compilerl\Compiler_Compiler\obj\x86\Debug\GenerateResource.read.1.tlog
+L:\Studying\Compiler_Compilerl\Compiler_Compiler\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\NOW\Compiler_Compilerl\Compiler_Compiler\obj\x86\Debug\Compiler_Compiler.exe
+D:\NOW\Compiler_Compilerl\Compiler_Compiler\obj\x86\Debug\Compiler_Compiler.pdb
+D:\NOW\Compiler_Compilerl\Compiler_Compiler\bin\Debug\Compiler_Compiler.exe
+D:\NOW\Compiler_Compilerl\Compiler_Compiler\bin\Debug\Compiler_Compiler.pdb
+D:\NOW\Compiler_Compilerl\Compiler_Compiler\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\NOW\Compiler_Compilerl\Compiler_Compiler\obj\x86\Debug\Compiler_Compiler.Form1.resources
+D:\NOW\Compiler_Compilerl\Compiler_Compiler\obj\x86\Debug\Compiler_Compiler.Properties.Resources.resources
+D:\NOW\Compiler_Compilerl\Compiler_Compiler\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\NOW\Compiler_Compilerl\Compiler_Compiler\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\NOW\Compiler_Compilerlu\Compiler_Compiler\obj\x86\Debug\Compiler_Compiler.exe
+D:\NOW\Compiler_Compilerlu\Compiler_Compiler\obj\x86\Debug\Compiler_Compiler.pdb
+D:\NOW\Compiler_Compilerlu\Compiler_Compiler\bin\Debug\Compiler_Compiler.exe
+D:\NOW\Compiler_Compilerlu\Compiler_Compiler\bin\Debug\Compiler_Compiler.pdb
+D:\NOW\Compiler_Compilerlu\Compiler_Compiler\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\NOW\Compiler_Compilerlu\Compiler_Compiler\obj\x86\Debug\Compiler_Compiler.Form1.resources
+D:\NOW\Compiler_Compilerlu\Compiler_Compiler\obj\x86\Debug\Compiler_Compiler.Properties.Resources.resources
+D:\NOW\Compiler_Compilerlu\Compiler_Compiler\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\NOW\Compiler_Compilerlu\Compiler_Compiler\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\NOW\Compiler_Compiler\Compiler_Compiler\obj\x86\Debug\Compiler_Compiler.exe
+D:\NOW\Compiler_Compiler\Compiler_Compiler\obj\x86\Debug\Compiler_Compiler.pdb
+D:\NOW\Compiler_Compiler\Compiler_Compiler\bin\Debug\Compiler_Compiler.exe
+D:\NOW\Compiler_Compiler\Compiler_Compiler\bin\Debug\Compiler_Compiler.pdb
+D:\NOW\Compiler_Compiler\Compiler_Compiler\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\NOW\Compiler_Compiler\Compiler_Compiler\obj\x86\Debug\Compiler_Compiler.Form1.resources
+D:\NOW\Compiler_Compiler\Compiler_Compiler\obj\x86\Debug\Compiler_Compiler.Properties.Resources.resources
+D:\NOW\Compiler_Compiler\Compiler_Compiler\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\NOW\Compiler_Compiler\Compiler_Compiler\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\NOW\Compiler_Compiler\Compiler_Compiler\obj\x86\Debug\Compiler_Compiler.INPUT.resources
+D:\NOW\Compiler_Compiler\Compiler_Compiler\obj\x86\Debug\Compiler_Compiler.OUTPUT.resources
+D:\NOW\Compiler_Compiler_final\Compiler_Compiler\obj\x86\Debug\Compiler_Compiler.exe
+D:\NOW\Compiler_Compiler_final\Compiler_Compiler\obj\x86\Debug\Compiler_Compiler.pdb
+D:\NOW\Compiler_Compiler_final\Compiler_Compiler\bin\Debug\Compiler_Compiler.exe
+D:\NOW\Compiler_Compiler_final\Compiler_Compiler\bin\Debug\Compiler_Compiler.pdb
+D:\NOW\Compiler_Compiler_final\Compiler_Compiler\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\NOW\Compiler_Compiler_final\Compiler_Compiler\obj\x86\Debug\Compiler_Compiler.Form1.resources
+D:\NOW\Compiler_Compiler_final\Compiler_Compiler\obj\x86\Debug\Compiler_Compiler.INPUT.resources
+D:\NOW\Compiler_Compiler_final\Compiler_Compiler\obj\x86\Debug\Compiler_Compiler.OUTPUT.resources
+D:\NOW\Compiler_Compiler_final\Compiler_Compiler\obj\x86\Debug\Compiler_Compiler.Properties.Resources.resources
+D:\NOW\Compiler_Compiler_final\Compiler_Compiler\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\NOW\Compiler_Compiler_final\Compiler_Compiler\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\NOW\Compiler_Compiler_final_after edit vardefine - Copy\Compiler_Compiler\obj\x86\Debug\Compiler_Compiler.exe
+D:\NOW\Compiler_Compiler_final_after edit vardefine - Copy\Compiler_Compiler\obj\x86\Debug\Compiler_Compiler.pdb
+D:\NOW\Compiler_Compiler_final_after edit vardefine - Copy\Compiler_Compiler\bin\Debug\Compiler_Compiler.exe
+D:\NOW\Compiler_Compiler_final_after edit vardefine - Copy\Compiler_Compiler\bin\Debug\Compiler_Compiler.pdb
+D:\NOW\Compiler_Compiler_final_after edit vardefine - Copy\Compiler_Compiler\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\NOW\Compiler_Compiler_final_after edit vardefine - Copy\Compiler_Compiler\obj\x86\Debug\Compiler_Compiler.Form1.resources
+D:\NOW\Compiler_Compiler_final_after edit vardefine - Copy\Compiler_Compiler\obj\x86\Debug\Compiler_Compiler.INPUT.resources
+D:\NOW\Compiler_Compiler_final_after edit vardefine - Copy\Compiler_Compiler\obj\x86\Debug\Compiler_Compiler.OUTPUT.resources
+D:\NOW\Compiler_Compiler_final_after edit vardefine - Copy\Compiler_Compiler\obj\x86\Debug\Compiler_Compiler.Properties.Resources.resources
+D:\NOW\Compiler_Compiler_final_after edit vardefine - Copy\Compiler_Compiler\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\NOW\Compiler_Compiler_final_after edit vardefine - Copy\Compiler_Compiler\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\NOW\Compiler_Compiler_finalL\Compiler_Compiler\obj\x86\Debug\Compiler_Compiler.exe
+D:\NOW\Compiler_Compiler_finalL\Compiler_Compiler\obj\x86\Debug\Compiler_Compiler.pdb
+D:\NOW\Compiler_Compiler_finalL\Compiler_Compiler\bin\Debug\Compiler_Compiler.exe
+D:\NOW\Compiler_Compiler_finalL\Compiler_Compiler\bin\Debug\Compiler_Compiler.pdb
+D:\NOW\Compiler_Compiler_finalL\Compiler_Compiler\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\NOW\Compiler_Compiler_finalL\Compiler_Compiler\obj\x86\Debug\Compiler_Compiler.Form1.resources
+D:\NOW\Compiler_Compiler_finalL\Compiler_Compiler\obj\x86\Debug\Compiler_Compiler.INPUT.resources
+D:\NOW\Compiler_Compiler_finalL\Compiler_Compiler\obj\x86\Debug\Compiler_Compiler.OUTPUT.resources
+D:\NOW\Compiler_Compiler_finalL\Compiler_Compiler\obj\x86\Debug\Compiler_Compiler.Properties.Resources.resources
+D:\NOW\Compiler_Compiler_finalL\Compiler_Compiler\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\NOW\Compiler_Compiler_finalL\Compiler_Compiler\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\NOW\Compiler_Compiler_finalL\Compiler_Compiler\obj\x86\Debug\Compiler_Compiler.PROJECT.resources
+D:\NOW\Compiler_Compiler_finalL\Compiler_Compiler\obj\x86\Debug\Compiler_Compiler.About_US.resources
+D:\Compiler_Compiler_finalL\Compiler_Compiler\obj\x86\Debug\Compiler_Compiler.exe
+D:\Compiler_Compiler_finalL\Compiler_Compiler\obj\x86\Debug\Compiler_Compiler.pdb
+D:\Compiler_Compiler_finalL\Compiler_Compiler\bin\Debug\Compiler_Compiler.exe
+D:\Compiler_Compiler_finalL\Compiler_Compiler\bin\Debug\Compiler_Compiler.pdb
+D:\Compiler_Compiler_finalL\Compiler_Compiler\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Compiler_Compiler_finalL\Compiler_Compiler\obj\x86\Debug\Compiler_Compiler.About_US.resources
+D:\Compiler_Compiler_finalL\Compiler_Compiler\obj\x86\Debug\Compiler_Compiler.Form1.resources
+D:\Compiler_Compiler_finalL\Compiler_Compiler\obj\x86\Debug\Compiler_Compiler.INPUT.resources
+D:\Compiler_Compiler_finalL\Compiler_Compiler\obj\x86\Debug\Compiler_Compiler.OUTPUT.resources
+D:\Compiler_Compiler_finalL\Compiler_Compiler\obj\x86\Debug\Compiler_Compiler.PROJECT.resources
+D:\Compiler_Compiler_finalL\Compiler_Compiler\obj\x86\Debug\Compiler_Compiler.Properties.Resources.resources
+D:\Compiler_Compiler_finalL\Compiler_Compiler\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Compiler_Compiler_finalL\Compiler_Compiler\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\project\Compiler\Compiler_Compiler_finalLr\Compiler_Compiler\obj\x86\Debug\Compiler_Compiler.exe
+D:\project\Compiler\Compiler_Compiler_finalLr\Compiler_Compiler\obj\x86\Debug\Compiler_Compiler.pdb
+D:\project\Compiler\Compiler_Compiler_finalLr\Compiler_Compiler\bin\Debug\Compiler_Compiler.exe
+D:\project\Compiler\Compiler_Compiler_finalLr\Compiler_Compiler\bin\Debug\Compiler_Compiler.pdb
+D:\project\Compiler\Compiler_Compiler_finalLr\Compiler_Compiler\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\project\Compiler\Compiler_Compiler_finalLr\Compiler_Compiler\obj\x86\Debug\Compiler_Compiler.About_US.resources
+D:\project\Compiler\Compiler_Compiler_finalLr\Compiler_Compiler\obj\x86\Debug\Compiler_Compiler.Form1.resources
+D:\project\Compiler\Compiler_Compiler_finalLr\Compiler_Compiler\obj\x86\Debug\Compiler_Compiler.INPUT.resources
+D:\project\Compiler\Compiler_Compiler_finalLr\Compiler_Compiler\obj\x86\Debug\Compiler_Compiler.OUTPUT.resources
+D:\project\Compiler\Compiler_Compiler_finalLr\Compiler_Compiler\obj\x86\Debug\Compiler_Compiler.PROJECT.resources
+D:\project\Compiler\Compiler_Compiler_finalLr\Compiler_Compiler\obj\x86\Debug\Compiler_Compiler.Properties.Resources.resources
+D:\project\Compiler\Compiler_Compiler_finalLr\Compiler_Compiler\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\project\Compiler\Compiler_Compiler_finalLr\Compiler_Compiler\obj\x86\Debug\GenerateResource.write.1.tlog
+R:\مشاريع السنة الرابعة\الفصل الأول\COMPILER\Test_Compiler\Compiler_Compiler_finalLr\Compiler_Compiler\obj\x86\Debug\Compiler_Compiler.exe
+R:\مشاريع السنة الرابعة\الفصل الأول\COMPILER\Test_Compiler\Compiler_Compiler_finalLr\Compiler_Compiler\obj\x86\Debug\Compiler_Compiler.pdb
+D:\تنصيبات\Compiler\COMPILER rasha\Test_Compiler\Compiler_Compiler_finalLr\Compiler_Compiler\obj\x86\Debug\Compiler_Compiler.pdb
+D:\dima\برامج عملية\Test_Compiler\Compiler_Compiler_finalLr\Compiler_Compiler\bin\Debug\Compiler_Compiler.exe
+D:\dima\برامج عملية\Test_Compiler\Compiler_Compiler_finalLr\Compiler_Compiler\bin\Debug\Compiler_Compiler.pdb
+D:\dima\برامج عملية\Test_Compiler\Compiler_Compiler_finalLr\Compiler_Compiler\obj\x86\Debug\Compiler_Compiler.csproj.AssemblyReference.cache
+D:\dima\برامج عملية\Test_Compiler\Compiler_Compiler_finalLr\Compiler_Compiler\obj\x86\Debug\Compiler_Compiler.About_US.resources
+D:\dima\برامج عملية\Test_Compiler\Compiler_Compiler_finalLr\Compiler_Compiler\obj\x86\Debug\Compiler_Compiler.Form1.resources
+D:\dima\برامج عملية\Test_Compiler\Compiler_Compiler_finalLr\Compiler_Compiler\obj\x86\Debug\Compiler_Compiler.INPUT.resources
+D:\dima\برامج عملية\Test_Compiler\Compiler_Compiler_finalLr\Compiler_Compiler\obj\x86\Debug\Compiler_Compiler.OUTPUT.resources
+D:\dima\برامج عملية\Test_Compiler\Compiler_Compiler_finalLr\Compiler_Compiler\obj\x86\Debug\Compiler_Compiler.PROJECT.resources
+D:\dima\برامج عملية\Test_Compiler\Compiler_Compiler_finalLr\Compiler_Compiler\obj\x86\Debug\Compiler_Compiler.Properties.Resources.resources
+D:\dima\برامج عملية\Test_Compiler\Compiler_Compiler_finalLr\Compiler_Compiler\obj\x86\Debug\Compiler_Compiler.csproj.GenerateResource.cache
+D:\dima\برامج عملية\Test_Compiler\Compiler_Compiler_finalLr\Compiler_Compiler\obj\x86\Debug\Compiler_Compiler.csproj.CoreCompileInputs.cache
+D:\dima\برامج عملية\Test_Compiler\Compiler_Compiler_finalLr\Compiler_Compiler\obj\x86\Debug\Compiler_Compiler.exe
+D:\dima\برامج عملية\Test_Compiler\Compiler_Compiler_finalLr\Compiler_Compiler\obj\x86\Debug\Compiler_Compiler.pdb
+D:\MyFlutterCourse\Compiler_Compiler_finalLr\Compiler_Compiler\bin\Debug\Compiler_Compiler.exe
+D:\MyFlutterCourse\Compiler_Compiler_finalLr\Compiler_Compiler\bin\Debug\Compiler_Compiler.pdb
+D:\MyFlutterCourse\Compiler_Compiler_finalLr\Compiler_Compiler\obj\x86\Debug\Compiler_Compiler.csproj.AssemblyReference.cache
+D:\MyFlutterCourse\Compiler_Compiler_finalLr\Compiler_Compiler\obj\x86\Debug\Compiler_Compiler.About_US.resources
+D:\MyFlutterCourse\Compiler_Compiler_finalLr\Compiler_Compiler\obj\x86\Debug\Compiler_Compiler.Form1.resources
+D:\MyFlutterCourse\Compiler_Compiler_finalLr\Compiler_Compiler\obj\x86\Debug\Compiler_Compiler.INPUT.resources
+D:\MyFlutterCourse\Compiler_Compiler_finalLr\Compiler_Compiler\obj\x86\Debug\Compiler_Compiler.OUTPUT.resources
+D:\MyFlutterCourse\Compiler_Compiler_finalLr\Compiler_Compiler\obj\x86\Debug\Compiler_Compiler.PROJECT.resources
+D:\MyFlutterCourse\Compiler_Compiler_finalLr\Compiler_Compiler\obj\x86\Debug\Compiler_Compiler.Properties.Resources.resources
+D:\MyFlutterCourse\Compiler_Compiler_finalLr\Compiler_Compiler\obj\x86\Debug\Compiler_Compiler.csproj.GenerateResource.cache
+D:\MyFlutterCourse\Compiler_Compiler_finalLr\Compiler_Compiler\obj\x86\Debug\Compiler_Compiler.csproj.CoreCompileInputs.cache
+D:\MyFlutterCourse\Compiler_Compiler_finalLr\Compiler_Compiler\obj\x86\Debug\Compiler_Compiler.exe
+D:\MyFlutterCourse\Compiler_Compiler_finalLr\Compiler_Compiler\obj\x86\Debug\Compiler_Compiler.pdb
+D:\MyFlutterCourse\Compiler_Compiler_final\Compiler_Compiler\bin\Debug\Compiler_Compiler.exe
+D:\MyFlutterCourse\Compiler_Compiler_final\Compiler_Compiler\bin\Debug\Compiler_Compiler.pdb
+D:\MyFlutterCourse\Compiler_Compiler_final\Compiler_Compiler\obj\x86\Debug\Compiler_Compiler.csproj.AssemblyReference.cache
+D:\MyFlutterCourse\Compiler_Compiler_final\Compiler_Compiler\obj\x86\Debug\Compiler_Compiler.About_US.resources
+D:\MyFlutterCourse\Compiler_Compiler_final\Compiler_Compiler\obj\x86\Debug\Compiler_Compiler.Form1.resources
+D:\MyFlutterCourse\Compiler_Compiler_final\Compiler_Compiler\obj\x86\Debug\Compiler_Compiler.INPUT.resources
+D:\MyFlutterCourse\Compiler_Compiler_final\Compiler_Compiler\obj\x86\Debug\Compiler_Compiler.OUTPUT.resources
+D:\MyFlutterCourse\Compiler_Compiler_final\Compiler_Compiler\obj\x86\Debug\Compiler_Compiler.PROJECT.resources
+D:\MyFlutterCourse\Compiler_Compiler_final\Compiler_Compiler\obj\x86\Debug\Compiler_Compiler.Properties.Resources.resources
+D:\MyFlutterCourse\Compiler_Compiler_final\Compiler_Compiler\obj\x86\Debug\Compiler_Compiler.csproj.GenerateResource.cache
+D:\MyFlutterCourse\Compiler_Compiler_final\Compiler_Compiler\obj\x86\Debug\Compiler_Compiler.csproj.CoreCompileInputs.cache
+D:\MyFlutterCourse\Compiler_Compiler_final\Compiler_Compiler\obj\x86\Debug\Compiler_Compiler.exe
+D:\MyFlutterCourse\Compiler_Compiler_final\Compiler_Compiler\obj\x86\Debug\Compiler_Compiler.pdb

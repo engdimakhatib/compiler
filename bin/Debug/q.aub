@@ -1,0 +1,6 @@
+#include 'temp.aub'
+#define s 3
+main
+{
+write (s);
+}

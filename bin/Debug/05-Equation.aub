@@ -1,0 +1,43 @@
+main
+{
+    writeln('This is a program to calculate the roots of equation ');
+  writeln('----------------------------------------------------------------------');
+  writeln();
+writeln ('Enter the parameters');
+  read (a);
+read (b);
+read (c);
+  if (a=0) then
+    if (b=0) then
+      writeln('C=0 or 0=0 ');
+    else
+    {
+      x[1] := -C/b;
+      writeln('this equation from the first degree');
+      writeln('x=',x[1]); 
+    }
+  else
+    d := b*b- (4*a*c);
+    if (d=0) then
+    {
+       x:= -b/(2*a);
+       writeln('there is one root  x=',x); 
+    }
+    else
+      if (d>0) then
+      {
+         x[1] := (-b+sqrt(d))/(2*a);
+         x[2] := (-b-sqrt(d))/(2*a);
+         writeln(' there are tow roots');
+        write('x1= ', x[1]);
+         write('x2= ', x[2]);
+      }
+      else
+      {
+        d := abs(d);     rd := sqrt(d);
+        r  := -b/(2*a);  im := abs(rd/(2*a));
+      writeln('the solution is tow complex root');
+        writeln('x1= ', r, '+' , im, 'i');
+       writeln('x2= ', r, '-', im, 'i');       
+      }
+} 

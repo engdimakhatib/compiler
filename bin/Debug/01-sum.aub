@@ -1,0 +1,12 @@
+procedure s (input x );
+{
+x:=x+1;
+writeln('kijiuh');
+}
+main
+{
+x:=5;
+call s (input x);
+    writeln ('x = ', x);
+ writeln('end');
+}

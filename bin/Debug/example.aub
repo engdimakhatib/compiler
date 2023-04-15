@@ -1,0 +1,15 @@
+#define s 2
+procedure w (input e);
+{
+e:=e+1;
+}
+main
+{
+if(s>1)then
+{
+d:=4;
+call w (input d);
+read(a);
+}
+write(d);
+}

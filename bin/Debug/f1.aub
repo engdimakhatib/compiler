@@ -1,0 +1,10 @@
+#include 'f2.aub'
+#define pi 1.5708
+main
+{
+y:=0;
+writeln(pi);
+writeln(getpi());
+call calcos(input (pi*2/3) output y);
+writeln(y);
+}

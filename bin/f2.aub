@@ -1,0 +1,5 @@
+#include 'f1.aub'
+main
+{
+call l();
+}

@@ -1,0 +1,8 @@
+procedure d(input w);
+{
+
+}
+main
+{
+call s ();
+}

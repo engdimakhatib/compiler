@@ -1,0 +1,57 @@
+0:"=" Expected 
+1:File not Exist
+2:Single Point is not allowed
+3:Number Expected After '+' or '-'
+4: '\' or ''' Expected
+5: End of string ''' Expected
+6: '&' after '&' Expected
+7: '|' after '|' Expected
+8:Symbol not Recognize
+9: */ Expected
+10: Include or Define Expected
+11: String After Include Expected 
+12: Variable Expected
+13:this word is defined before
+14: value Expected
+15: String Or Number Value Expected
+16:Include Or Define Expected 
+17:you defined this procedure already
+18: String Value Expected
+19:'(' Expected 
+20:var in proc is local and must not be defined before
+21:')' Expected 
+22:';' Expected
+23:'{' Expected
+24:Not Allowed ANY THING On the same line
+25:']' Expected
+26: Assign Mark Expected
+27:THEN Expected 
+28:DO Expected 
+29:DoWN_TO OR TO Expected
+30:Not allwoed CALL with Function
+31:',' Expected 
+32:String Value Or Procedure Expected 
+33:UNDefined instruction
+34:Undefined FACT
+35:NOT Allowed procedure WITHOUT CALL keyword
+36:Number of variable in input must be Same
+37:Number of variable in output must be Same
+38:UnAllowed return keyword with procedure
+39:Return Expected
+40:int or real Expected
+41:true or false Expected
+42:Not Allowed this Angle
+43:two values numbers or two values boolean Excepected
+44:two boolean values Expected
+45:two string values or two numbers values Expected
+46:result is undefined
+47:Main Must be in the main file
+48:File must be finish
+49:index must be >1
+50:integer value Expected
+51:Main Instruction Required
+52:Main Expected
+53:Value must be positive
+54:procedure not define
+55:can not convert string to int
+56:can not convert int to string

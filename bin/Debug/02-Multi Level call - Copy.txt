@@ -1,0 +1,32 @@
+
+procedure sum( input x,y output z);
+{
+     call multiply( input x,y output z);
+writeln (' z=  ', z);
+     z:= z + x + y;
+}
+
+procedure multiply( input x,y output z);
+{
+     call divi (input x,y output z);
+     writeln(' z=  ', z);     
+     z:= z + x*y;
+}
+
+procedure divi( input x,y output z);
+{
+      z := x / y;
+}
+
+main
+{
+    x := 5;
+    y := 6;
+    
+    call sum( input x,y output z);
+    writeln ('the sum is ', z);
+    writeln('x = ', x, ' y = ', y);
+    writeln('z = ', z );
+
+
+}
